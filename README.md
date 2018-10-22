@@ -99,35 +99,7 @@
         </div>
     </div>
 Стили для Блочной вёрстки 
-  * {
-    box-sizing: border-box;
-  }
-  body 
-  {
-    background-color: rgb(22, 193, 236)
-  } 
-  td, th {
-    width: 100px;
-    height: 150px;
-    border: 1px solid #ccc;
-    text-align: center;
-  }
-  td {
-    background: #324768;
-    border-color: white;
-    color: aqua;
-    font-size: 30px;
-  }
-  body {
-    padding: 1rem;
-  }
-  tr.hide {
-    visibility: collapse;
-  }
-  .table {
-    display: table;
-    float: left;
-  }
+
   * {
     box-sizing: border-box;
   }
